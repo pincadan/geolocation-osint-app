@@ -20,7 +20,9 @@ The app will display a menu with different options, and based on the user's choi
 Note: Make sure to install the required libraries (geopy, requests, folium) before running the script. You can install them using pip:
 
 pip install geopy
+
 pip install requests
+
 pip install folium
 
 
